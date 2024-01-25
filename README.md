@@ -17,3 +17,7 @@ Have a great time playing!!
 
 Pull requests are welcome, and after each change make sure it still runs properly.
 Just let me know when you update each time through opening an issue. 
+
+# Control
+
+Use move and quit when promted What would you like to do.
